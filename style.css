@@ -10,6 +10,22 @@
     font-weight: bold;
 }
 
+.title_container{
+    width:100%;
+    display:flex;
+    justify-content: space-betwwen;
+    align-items:center;
+}
+
+.title_container button{
+    widtH:100px;
+}
+
+.title_container span{
+    font-size: 20px;
+    font-weight: bold;
+    color: lightblue;
+}
 .news_container_inner {
     width: 100%;
     display: flex;
