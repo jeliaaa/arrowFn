@@ -84,6 +84,13 @@ console.log(mokleFunqcia());
 var arrToSort = [0, 1, 2, 3, 4, 5];
 arrToSort.sort((a, b) => b - a);
 
+var arrToSort2 = [0,1,2,3,4,{
+  id: 1,
+  number: 5,
+  name: "giorgi",
+  surname: "giorgadze",
+  sulaberidze: "gvari",
+}]
 
 
 shevqmeni()
